@@ -1,0 +1,16 @@
+This is a quick add-on for the Weewx system to allow it to send APRS packets
+to a Radio TNC connected to the same server as the weather station.
+
+This is the first time I've coded in Python, and I don't have much experience
+with programming serial ports, so I'm sure this could be much better. Also,
+the commands and behaviors of different TNCs can have enough variance that I
+don't know how useful this will be for others.
+
+This was created using Weewx version 1.13.1. The author has indicated that
+there will be a more modular facility for adding RESTful protocols in a future
+release, so this code will probably be obsolete before long.
+
+Please send any improvements to Brad McConahay at brad@mcconahay.com.
+
+Weewx is an excellent weather station system written in Python by Tom Keffer.
+http://www.weewx.com

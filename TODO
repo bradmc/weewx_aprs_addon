@@ -1,0 +1,5 @@
+- Separate the pySerial parts of the APRS class out into a separate method,
+  or some better wrapper.
+
+- Create some reasonable defaults for the APRS options so that some of the
+  settings can be optional.
