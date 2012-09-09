@@ -6,9 +6,10 @@ with programming serial ports, so I'm sure this could be much better. Also,
 the commands and behaviors of different TNCs can have enough variance that I
 don't know how useful this will be for others.
 
-This was created using Weewx version 1.13.1. The author has indicated that
-there will be a more modular facility for adding RESTful protocols in a future
-release, so this code will probably be obsolete before long.
+This was created using Weewx version 1.13.1, and has also been tested with
+version 1.14.1. The author has indicated that there will be a more modular
+facility for adding RESTful protocols in a future release, so this code
+will probably be obsolete before long.
 
 Please send any improvements to Brad McConahay at brad@mcconahay.com.
 
